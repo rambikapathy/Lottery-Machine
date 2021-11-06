@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613839118 source:c:\users\rishi\documents\lottery\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iomanip>
+	<fstream>
+
